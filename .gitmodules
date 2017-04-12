@@ -1,3 +1,3 @@
 [submodule "lib/Idris-Bifunctors"]
 	path = lib/Idris-Bifunctors
-	url = git@github.com:HuwCampbell/Idris-Bifunctors.git
+	url = git@github.com:japesinator/Idris-Bifunctors.git
